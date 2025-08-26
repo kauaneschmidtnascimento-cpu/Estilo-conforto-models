@@ -1,0 +1,11 @@
+:root{
+--azul-escuro:#0a1128ff;
+--azul-marinho: #001f54ff;
+--azul: #034078ff;
+--azul-claro: #1282a2ff;
+--branco: #fefcfbff;
+}
+
+body{
+    background-color: var(--azul-marinho)
+}
