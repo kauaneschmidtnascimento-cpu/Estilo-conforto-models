@@ -1,11 +1,16 @@
+@import url('https://fonts.googleapis.com/css2?family=Libertinus+Serif+Display&family=Lilita+One&display=swap');
+
 :root{
---azul-escuro:#0a1128ff;
+--preto: #000000;
 --azul-marinho: #001f54ff;
 --azul: #034078ff;
 --azul-claro: #1282a2ff;
 --branco: #fefcfbff;
+--texto: "Libertinus Serif Display", system-ui;
+--titulo: "Lilita One", sans-serif;
 }
 
 body{
-    background-color: var(--azul-marinho)
+    background-color: var(--azul-claro);
+    font-family: var(--texto);
 }
